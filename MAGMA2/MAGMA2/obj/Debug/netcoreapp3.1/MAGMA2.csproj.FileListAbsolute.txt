@@ -1,0 +1,14 @@
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\bin\Debug\netcoreapp3.1\MAGMA2.exe
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\bin\Debug\netcoreapp3.1\MAGMA2.deps.json
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\bin\Debug\netcoreapp3.1\MAGMA2.runtimeconfig.json
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\bin\Debug\netcoreapp3.1\MAGMA2.runtimeconfig.dev.json
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\bin\Debug\netcoreapp3.1\MAGMA2.dll
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\bin\Debug\netcoreapp3.1\MAGMA2.pdb
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.csproj.AssemblyReference.cache
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.AssemblyInfoInputs.cache
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.AssemblyInfo.cs
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.csproj.CoreCompileInputs.cache
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.dll
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.pdb
+C:\Users\polko\source\repos\MAGMA2\MAGMA2\obj\Debug\netcoreapp3.1\MAGMA2.genruntimeconfig.cache
